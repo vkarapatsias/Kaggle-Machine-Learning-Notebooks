@@ -1,3 +1,4 @@
+[![Check Files and Directory](https://github.com/vkarapatsias/Digits-MNIST-CNN-Classification/actions/workflows/main.yml/badge.svg)](https://github.com/vkarapatsias/Digits-MNIST-CNN-Classification/actions/workflows/main.yml)
 # Digits-MNIST-CNN-Classification
 
 ## Description
