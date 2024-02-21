@@ -1,0 +1,43 @@
+name: Check Files and Directory
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-files-and-directory:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Check if dataset directory exists
+        run: |
+          if [ -d "dataset" ]; then
+            echo "Directory exists."
+          else
+            echo "Directory does not exist."
+            exit 1
+          fi
+
+      - name: Check if train.csv exists
+        run: |
+          if [ -f "dataset/train.csv" ]; then
+            echo "File file2.csv exists."
+          else
+            echo "File file2.csv does not exist."
+            exit 1
+          fi
+
+      - name: Check if test.csv exists
+        run: |
+          if [ -f "dataset/test.csv" ]; then
+            echo "File file1.csv exists."
+          else
+            echo "File file1.csv does not exist."
+            exit 1
+          fi
+
+
