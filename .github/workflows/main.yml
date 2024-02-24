@@ -25,18 +25,18 @@ jobs:
       - name: Check if train.csv exists
         run: |
           if [ -f "dataset/train.csv" ]; then
-            echo "File file2.csv exists."
+            echo "File train.csv exists."
           else
-            echo "File file2.csv does not exist."
+            echo "File train.csv does not exist."
             exit 1
           fi
 
       - name: Check if test.csv exists
         run: |
           if [ -f "dataset/test.csv" ]; then
-            echo "File file1.csv exists."
+            echo "File test.csv exists."
           else
-            echo "File file1.csv does not exist."
+            echo "File test.csv does not exist."
             exit 1
           fi
 
