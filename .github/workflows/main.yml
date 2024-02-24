@@ -1,4 +1,4 @@
-name: Check Files and Directory
+name: Check Datasets Directory
 
 on:
   push:

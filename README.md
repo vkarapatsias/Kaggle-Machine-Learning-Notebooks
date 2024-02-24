@@ -1,3 +1,4 @@
+[![Check Datasets Directory](https://github.com/vkarapatsias/Kaggle-Machine-Learning-Notebooks/actions/workflows/main.yml/badge.svg)](https://github.com/vkarapatsias/Kaggle-Machine-Learning-Notebooks/actions/workflows/main.yml)
 # Machine Learning Notebooks
 
 ## Disclaimer
@@ -7,7 +8,7 @@ This repository hosts a list of Python notebooks that solve various Machine Lear
 ## List of notebooks
 
 - MNIST digits classification using CNN
-- Customer segmentation
+- Customer segmentation (to be uploaded)
 
 
 ## Requirements
