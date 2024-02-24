@@ -1,10 +1,14 @@
-[![Check Files and Directory](https://github.com/vkarapatsias/Digits-MNIST-CNN-Classification/actions/workflows/main.yml/badge.svg)](https://github.com/vkarapatsias/Digits-MNIST-CNN-Classification/actions/workflows/main.yml)
-# Digits-MNIST-CNN-Classification
+# Machine Learning Notebooks
 
-## Description
-This is a repo that classifies the digits using the MNIST dataset.
-### About the dataset 
-###### ~ source [Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+## Disclaimer
+
+This repository hosts a list of Python notebooks that solve various Machine Learning problems. The datasets as well as inspiration was taken from [Kaggle](https://www.kaggle.com/).
+
+## List of notebooks
+
+- MNIST digits classification using CNN
+- Customer segmentation
+
 
 ## Requirements
 - Python
