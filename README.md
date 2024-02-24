@@ -11,8 +11,8 @@ This is a repo that classifies the digits using the MNIST dataset.
 - Pip
 
 ## Installation
- - Create a virtual environment `virtualenv ~/.venv`
- - Source it: `source ~/.venv/bin/activate`
+ - Create a virtual environment `virtualenv .venv`
+ - Source it: `source .venv/bin/activate`
  - Install dependencies : `make install`
 
 ## Run 
