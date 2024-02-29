@@ -5,9 +5,5 @@ matplotlib
 scikit-learn
 tensorflow
 ipykernel
-seaborn
-datetime
 nltk
-wordcloud
-plotly
-nbformat>=4.2.0
+mlxtend

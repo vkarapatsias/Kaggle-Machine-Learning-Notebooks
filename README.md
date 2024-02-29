@@ -8,8 +8,11 @@ This repository hosts a list of Python notebooks that solve various Machine Lear
 ## List of notebooks
 
 - MNIST digits classification using CNN
-- Customer segmentation (to be uploaded)
-
+- Fake news detection model with:
+    - Logistic Regression
+    - Naive Bayes
+    - Decission tree
+    - Passive Aggressive Classification
 
 ## Requirements
 - Python
