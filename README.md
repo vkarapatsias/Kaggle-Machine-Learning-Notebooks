@@ -13,6 +13,10 @@ This repository hosts a list of Python notebooks that solve various Machine Lear
     - Naive Bayes
     - Decission tree
     - Passive Aggressive Classification
+- Movie recommendation model
+    - Rating based model
+    - Description based model
+    - Metadata based model    
 
 ## Requirements
 - Python
